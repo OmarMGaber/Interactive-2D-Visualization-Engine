@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Icon: analytics-bars-3-d
+  Set: Ultimate free icons
+  Author: Streamline (https://github.com/webalys-hq/streamline-vectors)
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+  Source: https://iconify.design
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 24 24"
+     width="24"
+     height="24">
+  <title>Bar Chart Icon for Data Visualization</title>
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:cc="http://creativecommons.org/ns#">
+      <cc:Work rdf:about="">
+        <dc:title>Bar Chart Icon for Data Visualization</dc:title>
+        <dc:description>A minimalist bar chart icon representing data analysis, statistics, or growth trends. Perfect for use in presentations, dashboards, and infographics.</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Streamline</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://github.com/webalys-hq/streamline-vectors</dc:source>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Streamline</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bar-chart</rdf:li>
+            <rdf:li>data-visualization</rdf:li>
+            <rdf:li>statistics-icon</rdf:li>
+            <rdf:li>analytics</rdf:li>
+            <rdf:li>growth-chart</rdf:li>
+            <rdf:li>business-graph</rdf:li>
+            <rdf:li>data-analysis</rdf:li>
+            <rdf:li>infographic-icon</rdf:li>
+            <rdf:li>chart-icon</rdf:li>
+            <rdf:li>bar-graph</rdf:li>
+            <rdf:li>financial-report</rdf:li>
+            <rdf:li>performance-metrics</rdf:li>
+            <rdf:li>trend-analysis</rdf:li>
+            <rdf:li>minimal-icon</rdf:li>
+            <rdf:li>presentation-tool</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="https://creativecommons.org/licenses/by/4.0/">
+        <dc:title>CC BY 4.0 (CC-BY-4.0)</dc:title>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M6.75 11.25v10.485a1.2 1.2 0 0 1-.532 1a3.1 3.1 0 0 1-3.436 0a1.2 1.2 0 0 1-.532-1V11.25"/><path d="M2.25 11.25c0 .398.237.78.659 1.06s.994.44 1.591.44s1.169-.158 1.591-.44c.422-.28.659-.662.659-1.06s-.237-.78-.659-1.06c-.422-.282-.994-.44-1.591-.44s-1.169.158-1.591.44c-.422.28-.659.662-.659 1.06m12-4.5v14.985a1.2 1.2 0 0 1-.532 1a3.1 3.1 0 0 1-3.436 0a1.2 1.2 0 0 1-.532-1V6.75"/><path d="M9.75 6.75c0 .398.237.78.659 1.06c.422.282.994.44 1.591.44s1.169-.158 1.591-.44c.422-.28.659-.662.659-1.06s-.237-.78-.659-1.06c-.422-.282-.994-.44-1.591-.44s-1.169.158-1.591.44c-.422.28-.659.662-.659 1.06m12-4.5v19.485a1.2 1.2 0 0 1-.532 1a3.1 3.1 0 0 1-3.436 0a1.2 1.2 0 0 1-.532-1V2.25"/><path d="M17.25 2.25c0 .398.237.78.659 1.06c.422.282.994.44 1.591.44s1.169-.158 1.591-.44c.422-.28.659-.662.659-1.06s-.237-.78-.659-1.06C20.669.907 20.097.75 19.5.75s-1.169.158-1.591.44c-.422.28-.659.662-.659 1.06"/></g>
+</svg>
